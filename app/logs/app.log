@@ -1,0 +1,27 @@
+2025-10-20 06:02:21,206 - __main__ - WARNING - ML modules not available. Using fallback detection.
+2025-10-20 06:03:35,397 - __main__ - WARNING - ML modules not available. Using fallback detection.
+2025-10-20 06:03:55,523 - __main__ - WARNING - ML modules not available. Using fallback detection.
+2025-10-20 06:05:11,613 - __main__ - WARNING - ML modules not available. Using fallback detection.
+2025-10-20 06:05:20,338 - __main__ - ERROR - Database connection failed: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 68f583c305c86b53c54a007f, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms)')>]>
+2025-10-20 06:05:22,363 - blockchain - ERROR - Blockchain connection error: Failed to connect to blockchain at http://127.0.0.1:8545
+2025-10-20 06:05:22,363 - __main__ - ERROR - Blockchain connection failed: Failed to connect to blockchain at http://127.0.0.1:8545
+2025-10-20 06:05:22,728 - __main__ - INFO - ============================================================
+2025-10-20 06:05:22,729 - __main__ - INFO - ChainGuardian API Starting...
+2025-10-20 06:05:22,729 - __main__ - INFO - ============================================================
+2025-10-20 06:05:44,424 - __main__ - WARNING - ML modules not available. Using fallback detection.
+2025-10-20 06:05:50,706 - __main__ - ERROR - Database connection failed: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 68f583e192ad0e5d726f776e, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms)')>]>
+2025-10-20 06:05:52,780 - blockchain - ERROR - Blockchain connection error: Failed to connect to blockchain at http://127.0.0.1:8545
+2025-10-20 06:05:52,780 - __main__ - ERROR - Blockchain connection failed: Failed to connect to blockchain at http://127.0.0.1:8545
+2025-10-20 06:05:53,040 - __main__ - INFO - ============================================================
+2025-10-20 06:05:53,041 - __main__ - INFO - ChainGuardian API Starting...
+2025-10-20 06:05:53,041 - __main__ - INFO - ============================================================
+2025-10-20 06:13:09,753 - __main__ - WARNING - ML modules not available. Using fallback detection.
+2025-10-20 06:13:16,322 - __main__ - ERROR - Database connection failed: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 68f5859ffe19de12e9af97e6, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms)')>]>
+2025-10-20 06:13:16,566 - __main__ - INFO - ============================================================
+2025-10-20 06:13:16,567 - __main__ - INFO - ChainGuardian API Starting...
+2025-10-20 06:13:16,568 - __main__ - INFO - ============================================================
+2025-10-20 06:25:17,936 - __main__ - WARNING - ML modules not available. Using fallback detection.
+2025-10-20 06:25:24,427 - __main__ - ERROR - Database connection failed: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 68f588777fc09e483fc55e1f, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms)')>]>
+2025-10-20 06:25:24,656 - __main__ - INFO - ============================================================
+2025-10-20 06:25:24,657 - __main__ - INFO - ChainGuardian API Starting...
+2025-10-20 06:25:24,658 - __main__ - INFO - ============================================================
